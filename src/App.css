@@ -78,6 +78,7 @@ button:hover,
     color: #202632;
     background: #52ffa8;
     transition: 0.2s; 
+    box-shadow: 0px 0px 25px 2px #52ffa8;
     
 }
 
