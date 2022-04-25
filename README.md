@@ -1,4 +1,4 @@
-# Projeto da mentoria 3ª Semana (Animação com Mouse)
+# Projeto da mentoria 5ª Semana (Calculadora em React)
 <p align="center"> Projeto destinado a criação de uma calculadora com a tecnologia React. Atividade de Mentoria.
 </p>
 
