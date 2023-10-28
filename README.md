@@ -6,8 +6,8 @@
  :fire: Proposta do projeto :nerd_face:
 </p>
 
- <h1 align="center"> 
-  <img alt="shift_alt" title="#shift_alt" src="./img/calculadora_react.gif" />
-</h1>
+ <p align="center"> 
+  <img src="./img/calculadora_react.gif" alt="shift_alt" title="#shift_alt">
+</p>
 
 <p>O que acha de acessar o projeto? </p> <a href="https://oscarlojr.github.io/calculadora_react/" target="_blank">Tela Inicial</a>
